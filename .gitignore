@@ -5,7 +5,7 @@ env/
 __pycache__/
 *.pyc
 
-# VS Code settings
+# VS Code setting
 .vscode/
 
 # Jupyter notebook checkpoints
