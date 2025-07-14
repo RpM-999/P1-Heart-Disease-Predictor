@@ -88,8 +88,8 @@ flowchart LR
 
 
 ## 📊 Dataset
-#### Ensure that heart_disease_dataset.csv is present for training purposes.
-#### If not included, you can:
+Ensure that heart_disease_dataset.csv is present for training purposes.
+If not included, you can:
 
 * 📥 Download from [Kaggle](https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction)
 
@@ -117,8 +117,7 @@ flowchart LR
 
 ## 📄 License
 
-##### This project is licensed under the **MIT License**.  
-##### See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 
 ## 👨‍💻 Developed By
