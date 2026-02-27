@@ -112,7 +112,7 @@ If not included, you can:
 
 ## 🔗 Live Demo
 
-🌐 [Click here to try the app](https://heart-disease-predictor-999.streamlit.app/)
+🌐 [Click here to try the app](https://p1-heart-disease-predictor-demo.streamlit.app/)
 
 
 ## 📄 License
